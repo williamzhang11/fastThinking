@@ -5,5 +5,5 @@
 ## 目前已整理的技术以及对应的包名如下：
 |技术|包路径|
 | :------ | :------ |
-| 						|				com.xiu.fastThinking |
+| 数据库三范式与反模式					|				com.xiu.fastTech.threenormalform|
 	
