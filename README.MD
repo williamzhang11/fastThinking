@@ -5,5 +5,7 @@
 ## 目前已整理的技术以及对应的包名如下：
 |技术|包路径|
 | :------ | :------ |
-| 数据库三范式与反模式					|				com.xiu.fastTech.threenormalform|
+| 数据库三范式与反模式								|				com.xiu.fastTech.threenormalform|
+| mysql数据库为什么不推荐使用物理外键					|				com.xiu.fastTech.mysqlforeignkey|
+| Innodb的主键选择与插入优化							|				com.xiu.fastTech.primarykeychoose|
 	
