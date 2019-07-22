@@ -10,6 +10,7 @@
 | Innodb的主键怎么选择							    |				[com.xiu.fastTech.primarykeychoose](src/main/java/com/xiu/fastThinking/primarykeychoose/README.MD)|
 | 使用覆盖索引为什么更快								|				[com.xiu.fastTech.coverindex](src/main/java/com/xiu/fastThinking/coverindex/README.MD)|
 | 数据库索引使用总结									|				[com.xiu.fastTech.indexuse](src/main/java/com/xiu/fastThinking/indexuse/README.MD)|
+| innodb产生死锁的4种情况								|				[com.xiu.fastTech.innodbdeadlock](src/main/java/com/xiu/fastThinking/innodbdeadlock/README.MD)|
 
 
 	
