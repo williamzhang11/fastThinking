@@ -10,7 +10,10 @@
 | Innodb的主键怎么选择							    |				[com.xiu.fastTech.primarykeychoose](src/main/java/com/xiu/fastThinking/primarykeychoose/README.MD)|
 | 使用覆盖索引为什么更快								|				[com.xiu.fastTech.coverindex](src/main/java/com/xiu/fastThinking/coverindex/README.MD)|
 | 数据库索引使用总结									|				[com.xiu.fastTech.indexuse](src/main/java/com/xiu/fastThinking/indexuse/README.MD)|
-| innodb产生死锁的4种情况								|				[com.xiu.fastTech.innodbdeadlock](src/main/java/com/xiu/fastThinking/innodbdeadlock/README.MD)|
+| innodb在什么情况下会产生死锁								|				[com.xiu.fastTech.innodbdeadlock](src/main/java/com/xiu/fastThinking/innodbdeadlock/README.MD)|
+| 为什么使用消息队列								|				[com.xiu.fastTech.whymessagequeue](src/main/java/com/xiu/fastThinking/whymessagequeue/README.MD)|
+| 消息队列有哪些缺点								|				[com.xiu.fastTech.mqweakness](src/main/java/com/xiu/fastThinking/mqweakness/README.MD)|
+| Kafka、ActiveMQ、RabbitMQ、RocketMQ 有什么优缺点？								|				[com.xiu.fastTech.mqcompare](src/main/java/com/xiu/fastThinking/mqcompare/README.MD)|
 
 
 	
