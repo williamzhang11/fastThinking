@@ -14,6 +14,8 @@
 | 为什么使用消息队列								|				[com.xiu.fastTech.whymessagequeue](src/main/java/com/xiu/fastThinking/whymessagequeue/README.MD)|
 | 消息队列有哪些缺点								|				[com.xiu.fastTech.mqweakness](src/main/java/com/xiu/fastThinking/mqweakness/README.MD)|
 | Kafka、ActiveMQ、RabbitMQ、RocketMQ 有什么优缺点？								|				[com.xiu.fastTech.mqcompare](src/main/java/com/xiu/fastThinking/mqcompare/README.MD)|
+| 如何保证消息队列的高可用性？								|				[com.xiu.fastTech.mqha](src/main/java/com/xiu/fastThinking/mqha/README.MD)|
+| 如何保证消息不被重复消费？								|				[com.xiu.fastTech.mqdoublespend](src/main/java/com/xiu/fastThinking/mqdoublespend/README.MD)|
 
 
 	
