@@ -18,6 +18,8 @@
 | [为什么要用缓存](src/main/java/com/xiu/fastThinking/whycache/README.MD)|
 | [常用的缓存算法](src/main/java/com/xiu/fastThinking/cachealgorithm/README.MD)|
 | [redis并发竞争问题](src/main/java/com/xiu/fastThinking/redisconcurrent/README.MD)|
+| [当查询缓存报错,怎么提高可用性](src/main/java/com/xiu/fastThinking/cacheerror/README.MD)|
+| [如何避免缓存穿透问题](src/main/java/com/xiu/fastThinking/cachepenetrate/README.MD)|
 
 
 
