@@ -22,6 +22,7 @@
 | [如何避免缓存穿透问题](src/main/java/com/xiu/fastThinking/cachepenetrate/README.MD)|
 | [如何避免缓存雪崩问题](src/main/java/com/xiu/fastThinking/cachecrash/README.MD)|
 | [本地缓存的实时性如何保证](src/main/java/com/xiu/fastThinking/localcacherealtime/README.MD)|
+| [限流的手段有哪些](src/main/java/com/xiu/fastThinking/limitmethod/README.MD)|
 
 
 
