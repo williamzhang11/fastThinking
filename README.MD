@@ -25,6 +25,8 @@
 | [限流的手段有哪些](src/main/java/com/xiu/fastThinking/limitmethod/README.MD)|
 | [如何避免缓存击穿问题 ](src/main/java/com/xiu/fastThinking/breakdown/README.MD)|
 | [缓存和DB的一致性如何保证 ](src/main/java/com/xiu/fastThinking/cacheConsistency/README.MD)|
+| [如何实现缓存预热 ](src/main/java/com/xiu/fastThinking/cachepreheat/README.MD)|
+| [缓存数据淘汰策略 ](src/main/java/com/xiu/fastThinking/cacheout/README.MD)|
 
 
 
