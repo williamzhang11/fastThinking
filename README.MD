@@ -27,7 +27,9 @@
 | [缓存和DB的一致性如何保证 ](src/main/java/com/xiu/fastThinking/cacheConsistency/README.MD)|
 | [如何实现缓存预热 ](src/main/java/com/xiu/fastThinking/cachepreheat/README.MD)|
 | [缓存数据淘汰策略 ](src/main/java/com/xiu/fastThinking/cacheout/README.MD)|
-
+| [什么是微服务 ](src/main/java/com/xiu/fastThinking/mircoservice/README.MD)|
+| [微服务组件使用的一些场景 ](src/main/java/com/xiu/fastThinking/mircoservicescene/README.MD)|
+| [微服务重要组件 ](src/main/java/com/xiu/fastThinking/mircoservicemodule/README.MD)|
 
 
 
