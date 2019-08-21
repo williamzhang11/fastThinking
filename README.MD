@@ -3,7 +3,7 @@
  本项目为maven项目，直接使用maven方式导入即可。
 
 ## 目前已整理的技术以及对应的包名如下：
-|技术|包路径|
+|技术|
 | :------ |
 | [数据库三范式与反模式是什么](src/main/java/com/xiu/fastThinking/threenormalform/README.MD)|
 | [mysql数据库为什么不推荐使用物理外键](src/main/java/com/xiu/fastThinking/mysqlforeignkey/README.MD)|
