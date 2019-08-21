@@ -32,7 +32,7 @@ http api，这些基于业务能力构建，并能够通过自动化部署机制
 方式（比如有的用redis，有的用mysql等），数据库也是单个模块对应自己的数据库
 
 
-![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/whymessagequeue/image/singleandmicoservice.JPG)
+![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/singleandmicoservice.JPG)
 
 
 

@@ -30,8 +30,13 @@
 | [什么是微服务 ](src/main/java/com/xiu/fastThinking/mircoservice/README.MD)|
 | [微服务组件使用的一些场景 ](src/main/java/com/xiu/fastThinking/mircoservicescene/README.MD)|
 | [微服务重要组件 ](src/main/java/com/xiu/fastThinking/mircoservicemodule/README.MD)|
-
-
+| [为什么使用分库分表？ ](src/main/java/com/xiu/fastThinking/whysharding/README.MD)|
+| [什么库分表？ ](src/main/java/com/xiu/fastThinking/whatsharding/README.MD)|
+| [用了分库分表之后，有哪些常见问题？ ](src/main/java/com/xiu/fastThinking/shardingproblem/README.MD)|
+| [了解和使用过哪些分库分表中间件？ ](src/main/java/com/xiu/fastThinking/wharshardingsoft/README.MD)|
+| [如何迁移到分库分表？ ](src/main/java/com/xiu/fastThinking/howshardingonline/README.MD)|
+| [如何设计可以动态扩容缩容的分库分表方案？ ](src/main/java/com/xiu/fastThinking/dynamiccapacity/README.MD)|
+| [分片键的选择？ ](src/main/java/com/xiu/fastThinking/shardingkey/README.MD)|
 
 
 
