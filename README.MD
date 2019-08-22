@@ -37,7 +37,8 @@
 | [如何迁移到分库分表？ ](src/main/java/com/xiu/fastThinking/howshardingonline/README.MD)|
 | [如何设计可以动态扩容缩容的分库分表方案？ ](src/main/java/com/xiu/fastThinking/dynamiccapacity/README.MD)|
 | [分片键的选择？ ](src/main/java/com/xiu/fastThinking/shardingkey/README.MD)|
-
+| [什么是分布式事务？ ](src/main/java/com/xiu/fastThinking/distributedtransaction/README.MD)|
+| [分布式事务的方案 ](src/main/java/com/xiu/fastThinking/distributedtransactionscheme/README.MD)|
 
 
 
