@@ -180,6 +180,11 @@ TCC 模型对业务的侵入强，改造的难度大.当然，如果能不用 TC
 
 ![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/rocketmq.JPG)
 
+
+https://blog.csdn.net/zty1317313805/article/details/82803837
+
+https://blog.csdn.net/d729332647/article/details/79324767
+
 ## 如何处理分布式事务的？
 
 某某特别严格的场景，用的是 TCC 来保证强一致性（严格资金要求）
