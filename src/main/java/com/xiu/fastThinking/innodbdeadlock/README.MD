@@ -2,9 +2,14 @@
 	
 ## innodb死锁的检测
 	有2种方法
-	1.如果存在2个事务相互等待，当一个等待时间超过设置某一个阈值时，对其中一个事务回滚，另一个事务继续执行。参数innodb_lock_wait_timeout设置超时
-	2.wait-for graph算法来主动进行死锁检测。innodb将各个事务看成一个个节点，资源就是各个事务占用的锁，当事务1需要等待事务2时，就生成一条
-	有向边，同理事务2需要等待事务1，也形成一条有向边，最后形成一个有向图。就是死锁。
+	1.如果存在2个事务相互等待，当一个等待时间超过设置某一个阈值时，对其中一个事务回滚，
+	另一个事务继续执行。参数innodb_lock_wait_timeout设置超时
+	
+	
+	2.wait-for graph算法来主动进行死锁检测。innodb将各个事务看成一个个节点，资源就
+	是各个事务占用的锁，当事务1需要等待事务2时，就生成一条有向边，同理事务2需要等待事务1，
+	也形成一条有向边，最后形成一个有向图。就是死锁。
+	
 ![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/innodbdeadlock/image/waitforgraph.png)
 
 ## 死锁的4种情况
