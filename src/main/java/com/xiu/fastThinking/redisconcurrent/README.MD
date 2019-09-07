@@ -18,7 +18,8 @@ T3时刻，连接1将price设置为20。
 T4时刻，连接2也将price设置为20，则最终结果是一个错误值20。
 
 
-解决方案
+## 解决方案
+
 方案1
 利用redis自带的incr命令，具体用法看这里http://doc.redisfans.com/string/incr.html。
 
@@ -62,7 +63,7 @@ https://www.cnblogs.com/shamo89/p/8376907.html
 
 方案6
 利用分布式锁
-
+https://www.cnblogs.com/xubingqi/p/6744397.html
 
 
 

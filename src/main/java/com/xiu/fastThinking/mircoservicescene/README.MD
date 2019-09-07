@@ -21,7 +21,7 @@
 最重要的作用是为前台（通常是移动应用）提供后台服务的聚合，提供一个统一的服务出口，
 解除他们之间的耦合，不过API Gateway也有可能成为单点故障点或者性能的瓶颈。
 
-![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/whymessagequeue/image/mgateway.JPG)
+![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/mgateway.JPG)
 
 ## 2 服务之间如何通信？（服务调用）
 
@@ -32,7 +32,7 @@ IPC（inter process communication），已经有很多成熟的方案。现在�
 (2) RPC（Thrift, Dubbo）
 (3) 异步消息调用(Kafka, Notify)
 
-![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/whymessagequeue/image/servicecall.JPG)
+![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/servicecall.JPG)
 
 一般同步调用比较简单，一致性强，但是容易出调用问题，性能体验上也会差些，特别是调用层次多的时候
 
@@ -62,7 +62,7 @@ ZK会发通知给服务客户端
 
 服务端做：优点是简单，所有服务对于前台调用方透明，一般在小公司在云服务上部署的应用采用的比较多。
 
-![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/whymessagequeue/image/servicefind.JPG)
+![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/servicefind.JPG)
 
 ## 4. 服务挂了怎么办
 
@@ -75,7 +75,7 @@ ZK会发通知给服务客户端
 负载均衡
 降级（本地缓存）
 
-![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/whymessagequeue/image/serviceretry.JPG)
+![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/serviceretry.JPG)
 
 
 
