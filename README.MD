@@ -39,6 +39,11 @@
 | [分片键的选择？ ](src/main/java/com/xiu/fastThinking/shardingkey)|
 | [什么是分布式事务？ ](src/main/java/com/xiu/fastThinking/distributedtransaction)|
 | [分布式事务的方案 ](src/main/java/com/xiu/fastThinking/distributedtransactionscheme)|
+| [DB与redi数据一致性如何保证 ](src/main/java/com/xiu/fastThinking/dbandredis)|
+| [基于MQ最终一致性的分布式事务 ](src/main/java/com/xiu/fastThinking/distributedm)|
+| [MVCC ](src/main/java/com/xiu/fastThinking/mvcc)|
+| [CMS与G1 ](src/main/java/com/xiu/fastThinking/cmsandg1)|
+
 
 
 
