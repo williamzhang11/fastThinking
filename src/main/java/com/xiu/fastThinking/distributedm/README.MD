@@ -23,6 +23,7 @@
 4、A发送提交消息给消息中间件
 
 分析：
+
 步骤一出错，则整个事务失败，不会执行A的本地操作
 
 步骤二出错，则整个事务失败，不会执行A的本地操作
@@ -42,6 +43,7 @@
 ![image](https://github.com/williamzhang11/fastThinking/blob/master/src/main/java/com/xiu/fastThinking/image/mqinfo1.jpg)
 
 备注
+
 虽然上面的方案能够完成A和B的操作，但是A和B并不是严格一致的，而是最终一致的，我们在这里牺牲了一致性，换来了性能的大幅度提升。当然，这种玩法也是有风险的，如果B一直执行不成功，那么一致性会被破坏，具体要不要玩，还是得看业务能够承担多少风险
 
 
