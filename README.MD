@@ -43,6 +43,7 @@
 | [基于MQ最终一致性的分布式事务 ](src/main/java/com/xiu/fastThinking/distributedm)|
 | [MVCC多版本并发控制机制 ](src/main/java/com/xiu/fastThinking/mvcc)|
 | [CMS与G1 ](src/main/java/com/xiu/fastThinking/cmsandg1)|
+| [mysql高可用 架构 ](src/main/java/com/xiu/fastThinking/mmmandmha)|
 
 
 
